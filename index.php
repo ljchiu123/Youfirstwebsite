@@ -3,7 +3,7 @@
 <title>WEB PAGE </title>
 </head>
 <body>
-<body background="web.gif">
+<body background url="web.gif">
 <br>
 <br>
 <br>
