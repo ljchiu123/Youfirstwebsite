@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>WEB PAGE </title>
+</head>
+<body>
+<body background="web.gif">
+<br>
+<br>
+<br>
+<br>
+<p><font face=""><font size="14"><b>hello!</font>
+
+
+
+
+</body>
+</html>
+
